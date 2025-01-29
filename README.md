@@ -1,12 +1,12 @@
 # superheroApp
 
 # How do you start this app ? 
-## You have two folders, one for backend and one for frontend. 
-## To start the project, do an npm install in both of them and use the command npm start to actually start the project.
+### You have two folders, one for backend and one for frontend. 
+### To start the project, do an npm install in both of them and use the command npm start to actually start the project.
 
 # How would i collaborate with a teammate to expand this project ?
 
-## If I were working with a teammate, I’d focus on clear, open communication to make sure we're always on the same page. I believe in asking for help when needed and offering assistance whenever possible. We’d brainstorm ideas together, share feedback respectfully, and pair program to tackle challenges as a team. Ultimately, I’d want to create an environment where we both feel supported and can grow together.
+### If I were working with a teammate, I’d focus on clear, open communication to make sure we're always on the same page. I believe in asking for help when needed and offering assistance whenever possible. We’d brainstorm ideas together, share feedback respectfully, and pair program to tackle challenges as a team. Ultimately, I’d want to create an environment where we both feel supported and can grow together.
 
 # If I had more time ...
 
@@ -24,4 +24,4 @@
 ### Finally, I’d generate automatic API documentation so other developers could easily work with or build on the project.
 
 # The more you know
-## I believe in writing clear, simple comments to explain why things are done a certain way, not just what’s happening. This helps anyone (including my future self) understand the logic behind the code. In the README, I’ve tried to give a transparent view of the project’s design decisions and invite feedback. I’m always open to suggestions and looking for ways to improve, whether it’s in the code or in how the app works.
+### I believe in writing clear, simple comments to explain why things are done a certain way, not just what’s happening. This helps anyone (including my future self) understand the logic behind the code. In the README, I’ve tried to give a transparent view of the project’s design decisions and invite feedback. I’m always open to suggestions and looking for ways to improve, whether it’s in the code or in how the app works.
