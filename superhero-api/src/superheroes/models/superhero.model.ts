@@ -1,3 +1,4 @@
+//Superhero model
 export class Superhero {
     id: number;
     name: string;

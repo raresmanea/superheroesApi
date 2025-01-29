@@ -5,6 +5,7 @@ import { SuperheroesService } from '../services/superheroes.service';
 export class SuperheroesController {
   constructor(private readonly superheroesService: SuperheroesService) {}
 
+  //Post request with three fields in the body
   @Post()
   addSuperhero(
     @Body('name') name: string,
@@ -14,6 +15,7 @@ export class SuperheroesController {
     return this.superheroesService.addSuperhero(name, superpower, humilityScore);
   }
 
+  //Get all heroes
   @Get()
   getSuperheroes() {
     return this.superheroesService.getSuperheroes();
