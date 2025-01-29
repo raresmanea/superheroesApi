@@ -28,6 +28,8 @@ export class SuperheroesService {
     };
 
     this.superheroes.push(newSuperhero);
+
+    //This should be logger, but we'll do with the famous console.log for now 
     console.log(`Hero added: ${newSuperhero.name} (Power: ${newSuperhero.superpower}, Humility: ${newSuperhero.humilityScore})`);
 
     return newSuperhero;
