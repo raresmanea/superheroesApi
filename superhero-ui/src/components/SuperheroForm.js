@@ -22,6 +22,7 @@ const SuperheroForm = ({ onSuperheroAdded }) => {
     setHumilityScore('');
   };
 
+  //TODO add a css file and style this properly. Also typescript ( very important ), but create react app is weird sometimes.
   return (
     <Box component="form" onSubmit={handleSubmit} sx={{ display: 'flex', gap: 2, mb: 3 }}>
       <TextField label="Name" value={name} onChange={(e) => setName(e.target.value)} required />
